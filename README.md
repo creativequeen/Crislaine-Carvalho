@@ -38,7 +38,9 @@
 
 # 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainescarvalho) [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://crislainecarvalho.com) [<img src="https://cdn.simpleicons.org/gmail" width="40" alt="E-mail"/>](mailto:crislaine.comercial@yahoo.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainescarvalho) [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://crislainecarvalho.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainescarvalho) [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://crislainecarvalho.com) [![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislaine.comercial@yahoo.com.br)
+
+
 
 
 ✨ _“Transformando ideias em código e código em soluções.”_ ✨
