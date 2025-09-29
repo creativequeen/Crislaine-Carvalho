@@ -36,10 +36,9 @@
 ![CreativeQueen GitHub stats](https://github-readme-stats.vercel.app/api?username=creativequeen&show_icons=true&theme=dracula)
 
 
-## 🌐 Onde me encontrar
-🔗 [LinkedIn](https://linkedin.com/in/crislainescarvalho)  
-🌍 [Portfólio](https://crislainecarvalho.com)  
-📧 **crislaine.comercial@yahoo.com.br**
----
+# 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crislainescarvalho) [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://crislainecarvalho.com) [<img src="https://cdn.simpleicons.org/gmail" width="40" alt="E-mail"/>](mailto:crislaine.comercial@yahoo.com.br)
+
 
 ✨ _“Transformando ideias em código e código em soluções.”_ ✨
